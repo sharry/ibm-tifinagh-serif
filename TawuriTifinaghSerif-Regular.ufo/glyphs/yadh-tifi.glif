@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yadh-tifi" format="2">
+  <advance width="707"/>
+  <unicode hex="2D38"/>
+  <outline>
+    <contour>
+      <point x="309" y="0" type="line"/>
+      <point x="103" y="654" type="line"/>
+      <point x="55" y="654" type="line"/>
+      <point x="55" y="698" type="line"/>
+      <point x="270" y="698" type="line"/>
+      <point x="270" y="654" type="line"/>
+      <point x="188" y="654" type="line"/>
+      <point x="355" y="101" type="line"/>
+      <point x="371" y="101" type="line"/>
+      <point x="541" y="654" type="line"/>
+      <point x="467" y="654" type="line"/>
+      <point x="467" y="698" type="line"/>
+      <point x="652" y="698" type="line"/>
+      <point x="652" y="654" type="line"/>
+      <point x="603" y="654" type="line"/>
+      <point x="396" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-03-19 19:47:14 +0000</string>
+    </dict>
+  </lib>
+</glyph>

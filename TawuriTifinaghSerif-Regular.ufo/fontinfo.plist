@@ -11,7 +11,7 @@
     <key>descender</key>
     <integer>-275</integer>
     <key>familyName</key>
-    <string>IBM Tifinagh Serif</string>
+    <string>Tawuri Tifinagh Serif</string>
     <key>italicAngle</key>
     <integer>0</integer>
     <key>openTypeHeadCreated</key>
@@ -22,16 +22,14 @@
     <integer>-275</integer>
     <key>openTypeNameDesigner</key>
     <string>Mike Abbink, Paul van der Laan, Pieter van Rosmalen, Youssef Ben Sadik</string>
-    <key>openTypeNameDesignerURL</key>
-    <string>http://www.ibm.com,https://www.bensadik.net</string>
     <key>openTypeNameLicense</key>
     <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
     <key>openTypeNameLicenseURL</key>
     <string>http://scripts.sil.org/OFL</string>
     <key>openTypeNameManufacturer</key>
-    <string>Bold Monday</string>
+    <string>Darija.ma</string>
     <key>openTypeNameManufacturerURL</key>
-    <string>http://www.boldmonday.com,https://www.darija.ma</string>
+    <string>https://www.darija.ma</string>
     <key>openTypeNamePreferredSubfamilyName</key>
     <string>Regular</string>
     <key>openTypeNameSampleText</key>
@@ -81,8 +79,6 @@
       <integer>60</integer>
       <integer>62</integer>
     </array>
-    <key>openTypeOS2VendorID</key>
-    <string>IBM </string>
     <key>openTypeOS2WeightClass</key>
     <integer>400</integer>
     <key>openTypeOS2WidthClass</key>
@@ -97,7 +93,7 @@
       <integer>0</integer>
     </array>
     <key>postscriptFontName</key>
-    <string>IBMPlexSerif-Regular_Tifinagh</string>
+    <string>TawuriTifinaghSerif-Regular</string>
     <key>postscriptUnderlinePosition</key>
     <integer>-78</integer>
     <key>postscriptUnderlineThickness</key>
@@ -107,7 +103,7 @@
     <key>styleName</key>
     <string>Regular</string>
     <key>trademark</key>
-    <string>IBM Plex(r) is a trademark of IBM Corp, registered in many jurisdictions worldwide.</string>
+    <string>Darija.ma</string>
     <key>unitsPerEm</key>
     <integer>1000</integer>
     <key>versionMajor</key>

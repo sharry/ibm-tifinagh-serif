@@ -1,4 +1,4 @@
-# IBM Tifinagh Serif
+# Tawuri Tifinagh Serif
 
 ![font preview](https://assets.bensadik.net/CnP_19032026_104643.png)
 
@@ -6,7 +6,7 @@ A modified version of [IBM Plex Serif](https://github.com/IBM/plex) extended wit
 
 ## About
 
-IBM Tifinagh Serif brings the elegance of IBM Plex Serif to the Amazigh writing system. This project adds a full set of Neo-Tifinagh glyphs alongside the special Latin characters commonly used to romanize Tamazight, making it suitable for bilingual typesetting and digital content in both scripts.
+Tawuri Tifinagh Serif brings the elegance of IBM Plex Serif to the Amazigh writing system. This project adds a full set of Neo-Tifinagh glyphs alongside the special Latin characters commonly used to romanize Tamazight, making it suitable for bilingual typesetting and digital content in both scripts.
 
 ## Supported Characters
 
