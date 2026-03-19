@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oacute" format="2">
+  <advance width="564"/>
+  <unicode hex="00F3"/>
+  <note>
+oacute
+</note>
+  <anchor x="282" y="0" name="bottom"/>
+  <outline>
+    <component base="o" identifier="767195F7"/>
+    <component base="acute" xOffset="-17" identifier="AC51E308"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>767195F7</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>AC51E308</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

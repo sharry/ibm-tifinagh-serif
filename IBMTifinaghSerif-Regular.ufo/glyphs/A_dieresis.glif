@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Adieresis" format="2">
+  <advance width="686"/>
+  <unicode hex="00C4"/>
+  <note>
+Adieresis
+</note>
+  <anchor x="327" y="0" name="bottom"/>
+  <anchor x="670" y="0" name="ogonek"/>
+  <outline>
+    <component base="A" identifier="7B4ED3A0"/>
+    <component base="dieresis.case" xOffset="43" identifier="C2A76DB5"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>7B4ED3A0</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>C2A76DB5</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

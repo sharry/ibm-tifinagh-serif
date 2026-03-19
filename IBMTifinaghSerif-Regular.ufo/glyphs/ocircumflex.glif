@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ocircumflex" format="2">
+  <advance width="564"/>
+  <unicode hex="00F4"/>
+  <note>
+ocircumflex
+</note>
+  <anchor x="282" y="0" name="bottom"/>
+  <outline>
+    <component base="o" identifier="60DA02E3"/>
+    <component base="circumflex" xOffset="-17" identifier="789E2D0F"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>60DA02E3</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>789E2D0F</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

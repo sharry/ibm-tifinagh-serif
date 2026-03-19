@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zdotaccent" format="2">
+  <advance width="508"/>
+  <unicode hex="017C"/>
+  <note>
+zdotaccent
+</note>
+  <anchor x="256" y="0" name="bottom"/>
+  <outline>
+    <component base="z" identifier="76CB914E"/>
+    <component base="dotaccent" xOffset="-43" identifier="5782407C"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>5782407C</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>76CB914E</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

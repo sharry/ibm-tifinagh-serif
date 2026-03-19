@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Omacron" format="2">
+  <advance width="716"/>
+  <unicode hex="014C"/>
+  <note>
+Omacron
+</note>
+  <anchor x="358" y="0" name="bottom"/>
+  <outline>
+    <component base="O" identifier="79E5E057"/>
+    <component base="macron.case" xOffset="58" identifier="CF2F6FA4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>79E5E057</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>CF2F6FA4</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uhungarumlaut" format="2">
+  <advance width="619"/>
+  <unicode hex="0171"/>
+  <note>
+uhungarumlaut
+</note>
+  <anchor x="307" y="0" name="bottom"/>
+  <anchor x="585" y="18" name="ogonek"/>
+  <outline>
+    <component base="u" identifier="160D0FF9"/>
+    <component base="hungarumlaut" identifier="D6D0885F"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>160D0FF9</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>D6D0885F</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

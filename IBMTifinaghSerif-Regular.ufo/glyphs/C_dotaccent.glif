@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Cdotaccent" format="2">
+  <advance width="649"/>
+  <unicode hex="010A"/>
+  <note>
+Cdotaccent
+</note>
+  <anchor x="342" y="0" name="bottom"/>
+  <outline>
+    <component base="C" identifier="F8B7A7F1"/>
+    <component base="dotaccent.case" xOffset="37" identifier="85A09F91"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>85A09F91</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>F8B7A7F1</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

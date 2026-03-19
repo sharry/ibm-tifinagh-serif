@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ncaron" format="2">
+  <advance width="778"/>
+  <unicode hex="0147"/>
+  <note>
+Ncaron
+</note>
+  <anchor x="393" y="0" name="bottom"/>
+  <outline>
+    <component base="N" identifier="3F84517D"/>
+    <component base="caron.case" xOffset="92" identifier="6202C0A1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>3F84517D</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>6202C0A1</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yan-tifi" format="2">
+  <advance width="344"/>
+  <unicode hex="2D4F"/>
+  <outline>
+    <contour>
+      <point x="55" y="49" type="line"/>
+      <point x="130" y="49" type="line"/>
+      <point x="130" y="652" type="line"/>
+      <point x="55" y="652" type="line"/>
+      <point x="55" y="698" type="line"/>
+      <point x="289" y="698" type="line"/>
+      <point x="289" y="652" type="line"/>
+      <point x="214" y="652" type="line"/>
+      <point x="214" y="49" type="line"/>
+      <point x="289" y="49" type="line"/>
+      <point x="289" y="0" type="line"/>
+      <point x="55" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-03-17 13:33:33 +0000</string>
+    </dict>
+  </lib>
+</glyph>

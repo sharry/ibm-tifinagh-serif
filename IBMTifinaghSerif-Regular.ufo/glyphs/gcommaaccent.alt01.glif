@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gcommaaccent.alt01" format="2">
+  <advance width="571"/>
+  <note>
+gcommaaccent.alt01
+</note>
+  <outline>
+    <component base="g.alt01" identifier="4B7AB97F"/>
+    <component base="uni02BB" xOffset="-31" identifier="1DFF5260"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>1DFF5260</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>4B7AB97F</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

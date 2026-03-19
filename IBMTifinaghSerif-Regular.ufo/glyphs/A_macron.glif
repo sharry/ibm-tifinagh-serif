@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Amacron" format="2">
+  <advance width="686"/>
+  <unicode hex="0100"/>
+  <note>
+Amacron
+</note>
+  <anchor x="327" y="0" name="bottom"/>
+  <anchor x="670" y="0" name="ogonek"/>
+  <outline>
+    <component base="A" identifier="DCFA205A"/>
+    <component base="macron.case" xOffset="43" identifier="B3CBEA8C"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>B3CBEA8C</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>DCFA205A</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

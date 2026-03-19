@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="emacron" format="2">
+  <advance width="536"/>
+  <unicode hex="0113"/>
+  <note>
+emacron
+</note>
+  <anchor x="277" y="0" name="bottom"/>
+  <anchor x="355" y="0" name="ogonek"/>
+  <outline>
+    <component base="e" identifier="17B94F8B"/>
+    <component base="macron" xOffset="-26" identifier="5F674D5A"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>17B94F8B</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>5F674D5A</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

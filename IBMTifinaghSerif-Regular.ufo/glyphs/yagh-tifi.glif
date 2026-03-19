@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yagh-tifi" format="2">
+  <advance width="710"/>
+  <unicode hex="2D56"/>
+  <outline>
+    <contour>
+      <point x="473" y="0" type="line"/>
+      <point x="238" y="0" type="line"/>
+      <point x="238" y="49" type="line"/>
+      <point x="313" y="49" type="line"/>
+      <point x="313" y="317" type="line"/>
+      <point x="55" y="317" type="line"/>
+      <point x="55" y="363" type="line"/>
+      <point x="130" y="363" type="line"/>
+      <point x="130" y="652" type="line"/>
+      <point x="55" y="652" type="line"/>
+      <point x="55" y="698" type="line"/>
+      <point x="275" y="698" type="line"/>
+      <point x="275" y="652" type="line"/>
+      <point x="205" y="652" type="line"/>
+      <point x="205" y="366" type="line"/>
+      <point x="506" y="366" type="line"/>
+      <point x="506" y="652" type="line"/>
+      <point x="436" y="652" type="line"/>
+      <point x="436" y="698" type="line"/>
+      <point x="655" y="698" type="line"/>
+      <point x="655" y="652" type="line"/>
+      <point x="580" y="652" type="line"/>
+      <point x="580" y="363" type="line"/>
+      <point x="655" y="363" type="line"/>
+      <point x="655" y="317" type="line"/>
+      <point x="398" y="317" type="line"/>
+      <point x="398" y="49" type="line"/>
+      <point x="473" y="49" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-03-17 13:34:28 +0000</string>
+    </dict>
+  </lib>
+</glyph>

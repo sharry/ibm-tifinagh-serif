@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="atilde.alt01" format="2">
+  <advance width="610"/>
+  <note>
+atilde.alt01
+</note>
+  <anchor x="277" y="0" name="bottom"/>
+  <anchor x="560" y="0" name="ogonek"/>
+  <outline>
+    <component base="a.alt01" identifier="DB72C4FE"/>
+    <component base="tilde" xOffset="-31" identifier="285BC998"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>285BC998</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>DB72C4FE</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

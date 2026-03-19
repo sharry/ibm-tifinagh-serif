@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni215D" format="2">
+  <advance width="881"/>
+  <unicode hex="215D"/>
+  <note>
+uni215D
+</note>
+  <outline>
+    <component base="uni2075" identifier="3BB299B2"/>
+    <component base="fraction" xOffset="358" identifier="4B82B7E6"/>
+    <component base="uni2088" xOffset="505" identifier="E571F490"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>3BB299B2</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>4B82B7E6</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>E571F490</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

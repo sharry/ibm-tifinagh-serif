@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sacute" format="2">
+  <advance width="488"/>
+  <unicode hex="015B"/>
+  <note>
+sacute
+</note>
+  <anchor x="252" y="0" name="bottom"/>
+  <outline>
+    <component base="s" identifier="815F515C"/>
+    <component base="acute" xOffset="-63" identifier="290A1113"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>290A1113</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>815F515C</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

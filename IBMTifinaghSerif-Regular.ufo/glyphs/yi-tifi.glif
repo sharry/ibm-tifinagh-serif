@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yi-tifi" format="2">
+  <advance width="599"/>
+  <unicode hex="2D49"/>
+  <outline>
+    <contour>
+      <point x="544" y="543" type="line"/>
+      <point x="505" y="543" type="line"/>
+      <point x="505" y="626" type="line"/>
+      <point x="140" y="600" type="line"/>
+      <point x="140" y="596" type="line"/>
+      <point x="221" y="547" type="line"/>
+      <point x="542" y="334" type="line"/>
+      <point x="242" y="144" type="line"/>
+      <point x="140" y="82" type="line"/>
+      <point x="140" y="78" type="line"/>
+      <point x="505" y="51" type="line"/>
+      <point x="505" y="135" type="line"/>
+      <point x="544" y="135" type="line"/>
+      <point x="544" y="0" type="line"/>
+      <point x="505" y="0" type="line"/>
+      <point x="55" y="26" type="line"/>
+      <point x="55" y="129" type="line"/>
+      <point x="417" y="355" type="line"/>
+      <point x="417" y="358" type="line"/>
+      <point x="55" y="596" type="line"/>
+      <point x="55" y="672" type="line"/>
+      <point x="505" y="698" type="line"/>
+      <point x="544" y="698" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-03-17 13:32:28 +0000</string>
+    </dict>
+  </lib>
+</glyph>

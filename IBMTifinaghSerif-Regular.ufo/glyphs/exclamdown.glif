@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="exclamdown" format="2">
+  <advance width="280"/>
+  <unicode hex="00A1"/>
+  <note>
+exclamdown
+</note>
+  <outline>
+    <contour>
+      <point x="169" y="402"/>
+      <point x="202" y="437"/>
+      <point x="202" y="462" type="qcurve" smooth="yes"/>
+      <point x="202" y="468" type="line" smooth="yes"/>
+      <point x="202" y="493"/>
+      <point x="169" y="528"/>
+      <point x="140" y="528" type="qcurve" smooth="yes"/>
+      <point x="111" y="528"/>
+      <point x="78" y="493"/>
+      <point x="78" y="468" type="qcurve" smooth="yes"/>
+      <point x="78" y="462" type="line" smooth="yes"/>
+      <point x="78" y="437"/>
+      <point x="111" y="402"/>
+      <point x="140" y="402" type="qcurve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="99" y="-182" type="line"/>
+      <point x="181" y="-182" type="line"/>
+      <point x="181" y="29" type="line"/>
+      <point x="157" y="332" type="line"/>
+      <point x="123" y="332" type="line"/>
+      <point x="99" y="29" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+PUSHW[ ]	/* 1 value pushed */
+19
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 1 value pushed */
+0
+RCVT[ ]	/* ReadCVT */
+IF[ ]	/* If */
+PUSHW[ ]	/* 1 value pushed */
+7
+MDAP[1]	/* MoveDirectAbsPt */
+ELSE[ ]	/* Else */
+PUSHW[ ]	/* 2 values pushed */
+7 27
+MIAP[0]	/* MoveIndirectAbsPt */
+EIF[ ]	/* EndIf */
+PUSHW[ ]	/* 1 value pushed */
+0
+MDRP[11100]	/* MoveDirectRelPt */
+PUSHW[ ]	/* 1 value pushed */
+15
+MDRP[11100]	/* MoveDirectRelPt */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */</string>
+    </dict>
+  </lib>
+</glyph>

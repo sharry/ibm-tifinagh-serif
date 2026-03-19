@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gbreve.alt01" format="2">
+  <advance width="571"/>
+  <note>
+gbreve.alt01
+</note>
+  <outline>
+    <component base="g.alt01" identifier="D436167C"/>
+    <component base="breve" xOffset="-31" identifier="4C8D115F"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>4C8D115F</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>D436167C</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

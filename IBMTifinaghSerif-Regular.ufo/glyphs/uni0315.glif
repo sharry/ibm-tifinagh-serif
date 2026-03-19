@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0315" format="2">
+  <advance width="0"/>
+  <unicode hex="0315"/>
+  <note>
+uni0315
+</note>
+  <anchor x="7" y="758" name="_topright"/>
+  <outline>
+    <component base="uni02BC" xOffset="-292" identifier="03474BB4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>03474BB4</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

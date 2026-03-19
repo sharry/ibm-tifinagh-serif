@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Gbreve" format="2">
+  <advance width="721"/>
+  <unicode hex="011E"/>
+  <note>
+Gbreve
+</note>
+  <anchor x="342" y="0" name="bottom"/>
+  <outline>
+    <component base="G" identifier="D0B53C84"/>
+    <component base="breve.case" xOffset="49" identifier="EA9687CA"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>D0B53C84</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>EA9687CA</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

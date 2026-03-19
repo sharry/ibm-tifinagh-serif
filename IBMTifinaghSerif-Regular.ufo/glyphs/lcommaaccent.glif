@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lcommaaccent" format="2">
+  <advance width="300"/>
+  <unicode hex="013C"/>
+  <note>
+lcommaaccent
+</note>
+  <anchor x="150" y="742" name="top"/>
+  <anchor x="238" y="758" name="topright"/>
+  <outline>
+    <component base="l" identifier="D9A9FC0E"/>
+    <component base="uni0326" xOffset="151" identifier="953737DB"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>953737DB</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>D9A9FC0E</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

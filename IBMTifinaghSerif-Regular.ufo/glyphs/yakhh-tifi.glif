@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yakhh-tifi" format="2">
+  <advance width="740"/>
+  <unicode hex="2D3F"/>
+  <outline>
+    <contour>
+      <point x="658" y="0" type="line"/>
+      <point x="55" y="0" type="line"/>
+      <point x="55" y="46" type="line"/>
+      <point x="130" y="46" type="line"/>
+      <point x="130" y="652" type="line"/>
+      <point x="55" y="652" type="line"/>
+      <point x="55" y="698" type="line"/>
+      <point x="308" y="698" type="line"/>
+      <point x="308" y="652" type="line"/>
+      <point x="233" y="652" type="line"/>
+      <point x="379" y="402" type="line"/>
+      <point x="517" y="652" type="line"/>
+      <point x="446" y="652" type="line"/>
+      <point x="446" y="698" type="line"/>
+      <point x="685" y="698" type="line"/>
+      <point x="685" y="652" type="line"/>
+      <point x="616" y="652" type="line"/>
+      <point x="432" y="320" type="line"/>
+      <point x="589" y="46" type="line"/>
+      <point x="658" y="46" type="line"/>
+    </contour>
+    <contour>
+      <point x="217" y="46" type="line"/>
+      <point x="523" y="46" type="line"/>
+      <point x="370" y="306" type="line"/>
+      <point x="217" y="568" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-03-19 08:16:40 +0000</string>
+    </dict>
+  </lib>
+</glyph>

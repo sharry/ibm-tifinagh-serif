@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dcaron" format="2">
+  <advance width="608"/>
+  <unicode hex="010F"/>
+  <note>
+dcaron
+</note>
+  <anchor x="268" y="0" name="bottom"/>
+  <outline>
+    <component base="d" identifier="463EE253"/>
+    <component base="uni02BC" xOffset="245" identifier="7193A81D"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>463EE253</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>7193A81D</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yal-tifi" format="2">
+  <advance width="704"/>
+  <unicode hex="2D4D"/>
+  <outline>
+    <contour>
+      <point x="290" y="652" type="line"/>
+      <point x="215" y="652" type="line"/>
+      <point x="216" y="234" type="line"/>
+      <point x="489" y="562" type="line"/>
+      <point x="489" y="652" type="line"/>
+      <point x="415" y="652" type="line"/>
+      <point x="415" y="698" type="line"/>
+      <point x="649" y="698" type="line"/>
+      <point x="649" y="652" type="line"/>
+      <point x="574" y="652" type="line"/>
+      <point x="574" y="49" type="line"/>
+      <point x="649" y="49" type="line"/>
+      <point x="649" y="0" type="line"/>
+      <point x="415" y="0" type="line"/>
+      <point x="415" y="49" type="line"/>
+      <point x="489" y="49" type="line"/>
+      <point x="489" y="481" type="line"/>
+      <point x="216" y="153" type="line"/>
+      <point x="215" y="49" type="line"/>
+      <point x="290" y="49" type="line"/>
+      <point x="290" y="0" type="line"/>
+      <point x="55" y="0" type="line"/>
+      <point x="55" y="49" type="line"/>
+      <point x="130" y="49" type="line"/>
+      <point x="130" y="652" type="line"/>
+      <point x="55" y="652" type="line"/>
+      <point x="55" y="698" type="line"/>
+      <point x="290" y="698" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-03-19 08:53:05 +0000</string>
+    </dict>
+  </lib>
+</glyph>

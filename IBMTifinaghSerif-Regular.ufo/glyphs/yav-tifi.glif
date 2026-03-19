@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yav-tifi" format="2">
+  <advance width="708"/>
+  <unicode hex="2D60"/>
+  <outline>
+    <contour>
+      <point x="605" y="56" type="line"/>
+      <point x="653" y="56" type="line"/>
+      <point x="653" y="0" type="line"/>
+      <point x="55" y="0" type="line"/>
+      <point x="55" y="56" type="line"/>
+      <point x="103" y="56" type="line"/>
+      <point x="311" y="698" type="line"/>
+      <point x="398" y="698" type="line"/>
+    </contour>
+    <contour>
+      <point x="337" y="653" type="line"/>
+      <point x="158" y="56" type="line"/>
+      <point x="519" y="56" type="line"/>
+      <point x="342" y="653" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-03-17 13:35:31 +0000</string>
+    </dict>
+  </lib>
+</glyph>

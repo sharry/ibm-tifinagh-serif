@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Yacute" format="2">
+  <advance width="634"/>
+  <unicode hex="00DD"/>
+  <note>
+Yacute
+</note>
+  <anchor x="318" y="0" name="bottom"/>
+  <outline>
+    <component base="Y" identifier="DADFE58D"/>
+    <component base="acute.case" xOffset="36" identifier="6797233E"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>6797233E</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>DADFE58D</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

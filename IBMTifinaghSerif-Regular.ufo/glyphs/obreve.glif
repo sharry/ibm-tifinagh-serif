@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="obreve" format="2">
+  <advance width="564"/>
+  <unicode hex="014F"/>
+  <note>
+obreve
+</note>
+  <anchor x="282" y="0" name="bottom"/>
+  <outline>
+    <component base="o" identifier="EB586F51"/>
+    <component base="breve" xOffset="-17" identifier="4D3AB737"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>4D3AB737</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>EB586F51</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1ED2" format="2">
+  <advance width="716"/>
+  <unicode hex="1ED2"/>
+  <note>
+uni1ED2
+</note>
+  <anchor x="358" y="0" name="bottom"/>
+  <outline>
+    <component base="O" identifier="2FC265CA"/>
+    <component base="circumflexgrave.case" xOffset="358" identifier="22E20607"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>22E20607</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>2FC265CA</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

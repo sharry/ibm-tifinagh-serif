@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1EDA" format="2">
+  <advance width="716"/>
+  <unicode hex="1EDA"/>
+  <note>
+uni1EDA
+</note>
+  <anchor x="358" y="0" name="bottom"/>
+  <outline>
+    <component base="Ohorn" identifier="9A12F0EC"/>
+    <component base="acute.case" xOffset="58" identifier="F3E62D1A"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>9A12F0EC</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>F3E62D1A</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

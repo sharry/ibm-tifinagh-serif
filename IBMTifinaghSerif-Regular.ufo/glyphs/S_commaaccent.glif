@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Scommaaccent" format="2">
+  <advance width="588"/>
+  <unicode hex="0218"/>
+  <note>
+Scommaaccent
+</note>
+  <anchor x="291" y="698" name="top"/>
+  <outline>
+    <component base="S" identifier="D7538D07"/>
+    <component base="uni0326" xOffset="294" identifier="174310EB"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>174310EB</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>D7538D07</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

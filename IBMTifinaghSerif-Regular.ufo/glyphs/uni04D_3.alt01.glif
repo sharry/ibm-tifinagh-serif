@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni04D3.alt01" format="2">
+  <advance width="610"/>
+  <note>
+uni04D3.alt01
+</note>
+  <anchor x="277" y="0" name="bottom"/>
+  <anchor x="560" y="0" name="ogonek"/>
+  <outline>
+    <component base="a.alt01" identifier="3A3B8AA8"/>
+    <component base="dieresis" xOffset="-31" identifier="80E2216B"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>3A3B8AA8</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>80E2216B</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

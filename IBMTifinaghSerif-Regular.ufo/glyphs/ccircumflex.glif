@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ccircumflex" format="2">
+  <advance width="516"/>
+  <unicode hex="0109"/>
+  <note>
+ccircumflex
+</note>
+  <anchor x="289" y="0" name="bottom"/>
+  <outline>
+    <component base="c" identifier="BB087A6B"/>
+    <component base="circumflex" xOffset="-19" identifier="C6A4F121"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>BB087A6B</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>C6A4F121</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

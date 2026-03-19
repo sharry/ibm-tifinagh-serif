@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tcaron" format="2">
+  <advance width="353"/>
+  <unicode hex="0165"/>
+  <note>
+tcaron
+</note>
+  <anchor x="215" y="0" name="bottom"/>
+  <outline>
+    <component base="t" identifier="502FC9A3"/>
+    <component base="uni02BC" xOffset="-56" identifier="862D768A"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>502FC9A3</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>862D768A</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

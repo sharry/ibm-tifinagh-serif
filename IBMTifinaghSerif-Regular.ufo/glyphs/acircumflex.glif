@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acircumflex" format="2">
+  <advance width="546"/>
+  <unicode hex="00E2"/>
+  <note>
+acircumflex
+</note>
+  <anchor x="244" y="0" name="bottom"/>
+  <anchor x="497" y="0" name="ogonek"/>
+  <outline>
+    <component base="a" identifier="28C5CE42"/>
+    <component base="circumflex" xOffset="-35" identifier="435AA20D"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>28C5CE42</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>435AA20D</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

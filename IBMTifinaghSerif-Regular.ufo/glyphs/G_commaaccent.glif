@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Gcommaaccent" format="2">
+  <advance width="721"/>
+  <unicode hex="0122"/>
+  <note>
+Gcommaaccent
+</note>
+  <anchor x="349" y="698" name="top"/>
+  <outline>
+    <component base="G" identifier="FA5A57F1"/>
+    <component base="uni0326" xOffset="342" identifier="61C43590"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>61C43590</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>FA5A57F1</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

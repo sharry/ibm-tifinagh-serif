@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1ED4" format="2">
+  <advance width="716"/>
+  <unicode hex="1ED4"/>
+  <note>
+uni1ED4
+</note>
+  <anchor x="358" y="0" name="bottom"/>
+  <outline>
+    <component base="O" identifier="755FBE62"/>
+    <component base="circumflexhook.case" xOffset="358" identifier="42316A57"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>42316A57</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>755FBE62</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

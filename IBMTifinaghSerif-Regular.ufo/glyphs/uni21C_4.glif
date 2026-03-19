@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni21C4" format="2">
+  <advance width="860"/>
+  <unicode hex="21C4"/>
+  <note>
+uni21C4
+</note>
+  <outline>
+    <component base="uni2192" yOffset="153" identifier="FA5263EF"/>
+    <component base="uni2190" yOffset="-152" identifier="D9508F49"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>D9508F49</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>FA5263EF</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

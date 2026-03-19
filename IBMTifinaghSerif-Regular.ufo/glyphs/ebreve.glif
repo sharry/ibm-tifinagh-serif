@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ebreve" format="2">
+  <advance width="536"/>
+  <unicode hex="0115"/>
+  <note>
+ebreve
+</note>
+  <anchor x="277" y="0" name="bottom"/>
+  <anchor x="355" y="0" name="ogonek"/>
+  <outline>
+    <component base="e" identifier="E956F009"/>
+    <component base="breve" xOffset="-26" identifier="B2D2772F"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>B2D2772F</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>E956F009</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

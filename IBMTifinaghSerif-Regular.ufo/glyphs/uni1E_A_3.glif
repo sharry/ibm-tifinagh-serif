@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1EA3" format="2">
+  <advance width="546"/>
+  <unicode hex="1EA3"/>
+  <note>
+uni1EA3
+</note>
+  <anchor x="244" y="0" name="bottom"/>
+  <anchor x="497" y="0" name="ogonek"/>
+  <outline>
+    <component base="a" identifier="FFC087D9"/>
+    <component base="uni0309" xOffset="264" identifier="E60F0B31"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>E60F0B31</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>FFC087D9</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

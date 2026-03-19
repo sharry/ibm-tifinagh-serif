@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1EEF" format="2">
+  <advance width="618"/>
+  <unicode hex="1EEF"/>
+  <note>
+uni1EEF
+</note>
+  <anchor x="307" y="0" name="bottom"/>
+  <outline>
+    <component base="uhorn" identifier="B7424223"/>
+    <component base="tilde.alt01" identifier="2E7D4D59"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>2E7D4D59</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>B7424223</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

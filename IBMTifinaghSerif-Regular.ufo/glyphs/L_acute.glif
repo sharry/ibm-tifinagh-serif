@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lacute" format="2">
+  <advance width="594"/>
+  <unicode hex="0139"/>
+  <note>
+Lacute
+</note>
+  <anchor x="309" y="0" name="bottom"/>
+  <anchor x="361" y="740" name="topright"/>
+  <outline>
+    <component base="L" identifier="E7D8BA28"/>
+    <component base="acute.case" xOffset="-126" identifier="3B1E3585"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>3B1E3585</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>E7D8BA28</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

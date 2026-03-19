@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ccaron" format="2">
+  <advance width="649"/>
+  <unicode hex="010C"/>
+  <note>
+Ccaron
+</note>
+  <anchor x="342" y="0" name="bottom"/>
+  <outline>
+    <component base="C" identifier="B5634487"/>
+    <component base="caron.case" xOffset="37" identifier="82FD7FAE"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>82FD7FAE</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>B5634487</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

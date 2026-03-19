@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Udieresis" format="2">
+  <advance width="735"/>
+  <unicode hex="00DC"/>
+  <note>
+Udieresis
+</note>
+  <anchor x="368" y="0" name="bottom"/>
+  <anchor x="472" y="0" name="ogonek"/>
+  <outline>
+    <component base="U" identifier="F84FD692"/>
+    <component base="dieresis.case" xOffset="83" identifier="57A75B00"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>57A75B00</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>F84FD692</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni04F3" format="2">
+  <advance width="533"/>
+  <unicode hex="04F3"/>
+  <note>
+uni04F3
+</note>
+  <anchor x="384" y="0" name="bottom"/>
+  <outline>
+    <component base="y" identifier="C2FC077F"/>
+    <component base="hungarumlaut" xOffset="-18" identifier="5FD033B2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>5FD033B2</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>C2FC077F</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

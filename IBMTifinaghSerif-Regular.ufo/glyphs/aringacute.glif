@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="aringacute" format="2">
+  <advance width="546"/>
+  <unicode hex="01FB"/>
+  <note>
+aringacute
+</note>
+  <anchor x="244" y="0" name="bottom"/>
+  <anchor x="497" y="0" name="ogonek"/>
+  <outline>
+    <component base="a" identifier="5D4E4FF7"/>
+    <component base="ringacute" xOffset="-35" identifier="E00EECE1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>5D4E4FF7</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>E00EECE1</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

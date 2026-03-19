@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0430" format="2">
+  <advance width="546"/>
+  <unicode hex="0430"/>
+  <note>
+uni0430
+</note>
+  <anchor x="244" y="0" name="bottom"/>
+  <anchor x="497" y="0" name="ogonek"/>
+  <anchor x="264" y="540" name="top"/>
+  <outline>
+    <component base="a" identifier="F0206513"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>F0206513</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

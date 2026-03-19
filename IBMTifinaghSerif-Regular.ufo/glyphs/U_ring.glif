@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Uring" format="2">
+  <advance width="735"/>
+  <unicode hex="016E"/>
+  <note>
+Uring
+</note>
+  <anchor x="368" y="0" name="bottom"/>
+  <anchor x="472" y="0" name="ogonek"/>
+  <outline>
+    <component base="U" identifier="34D1BC59"/>
+    <component base="ring.case" xOffset="83" identifier="1F94ED38"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>1F94ED38</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>34D1BC59</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1EE9" format="2">
+  <advance width="618"/>
+  <unicode hex="1EE9"/>
+  <note>
+uni1EE9
+</note>
+  <anchor x="307" y="0" name="bottom"/>
+  <outline>
+    <component base="uhorn" identifier="1AFD62C7"/>
+    <component base="acute" identifier="B244F4DF"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>1AFD62C7</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>B244F4DF</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

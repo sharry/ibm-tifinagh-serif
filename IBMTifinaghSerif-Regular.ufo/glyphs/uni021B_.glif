@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni021B" format="2">
+  <advance width="353"/>
+  <unicode hex="021B"/>
+  <note>
+uni021B
+</note>
+  <anchor x="243" y="758" name="topright"/>
+  <outline>
+    <component base="t" identifier="0428B4DF"/>
+    <component base="uni0326" xOffset="215" identifier="C5BEB17D"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>0428B4DF</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>C5BEB17D</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

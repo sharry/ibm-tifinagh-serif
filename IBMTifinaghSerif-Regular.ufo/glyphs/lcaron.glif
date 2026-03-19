@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lcaron" format="2">
+  <advance width="300"/>
+  <unicode hex="013E"/>
+  <note>
+lcaron
+</note>
+  <anchor x="151" y="0" name="bottom"/>
+  <anchor x="150" y="742" name="top"/>
+  <outline>
+    <component base="l" identifier="55046557"/>
+    <component base="uni02BC" xOffset="-61" identifier="A65EDE46"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>55046557</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>A65EDE46</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

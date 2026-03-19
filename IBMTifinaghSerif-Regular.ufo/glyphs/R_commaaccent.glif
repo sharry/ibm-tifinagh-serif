@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Rcommaaccent" format="2">
+  <advance width="672"/>
+  <unicode hex="0156"/>
+  <note>
+Rcommaaccent
+</note>
+  <anchor x="310" y="698" name="top"/>
+  <outline>
+    <component base="R" identifier="3376F3B0"/>
+    <component base="uni0326" xOffset="381" identifier="36EE2E07"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>3376F3B0</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>36EE2E07</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

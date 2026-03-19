@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Jcircumflex" format="2">
+  <advance width="457"/>
+  <unicode hex="0134"/>
+  <note>
+Jcircumflex
+</note>
+  <anchor x="163" y="0" name="bottom"/>
+  <outline>
+    <component base="J" identifier="6D3F60D1"/>
+    <component base="circumflex.case" xOffset="-15" identifier="D08A6C03"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>6D3F60D1</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>D08A6C03</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

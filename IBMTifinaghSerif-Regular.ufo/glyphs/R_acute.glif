@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Racute" format="2">
+  <advance width="672"/>
+  <unicode hex="0154"/>
+  <note>
+Racute
+</note>
+  <anchor x="381" y="0" name="bottom"/>
+  <outline>
+    <component base="R" identifier="8D498620"/>
+    <component base="acute.case" xOffset="10" identifier="EF06D4EE"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>8D498620</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>EF06D4EE</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

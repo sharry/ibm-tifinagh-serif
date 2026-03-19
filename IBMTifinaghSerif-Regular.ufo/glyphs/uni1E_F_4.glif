@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1EF4" format="2">
+  <advance width="634"/>
+  <unicode hex="1EF4"/>
+  <note>
+uni1EF4
+</note>
+  <anchor x="336" y="698" name="top"/>
+  <outline>
+    <component base="Y" identifier="79546E53"/>
+    <component base="uni0323" xOffset="318" identifier="D22AA0A3"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-03-19 08:24:24 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>79546E53</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>D22AA0A3</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

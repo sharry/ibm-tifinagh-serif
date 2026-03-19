@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1ED8" format="2">
+  <advance width="716"/>
+  <unicode hex="1ED8"/>
+  <note>
+uni1ED8
+</note>
+  <outline>
+    <component base="O" identifier="96FE8F07"/>
+    <component base="circumflex.case" xOffset="58" identifier="63BCF21C"/>
+    <component base="uni0323" xOffset="358" identifier="6B12CE12"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>63BCF21C</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>6B12CE12</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>96FE8F07</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

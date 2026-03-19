@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni04D1.alt01" format="2">
+  <advance width="610"/>
+  <note>
+uni04D1.alt01
+</note>
+  <anchor x="277" y="0" name="bottom"/>
+  <anchor x="560" y="0" name="ogonek"/>
+  <outline>
+    <component base="a.alt01" identifier="9A18E295"/>
+    <component base="breve.cyrl" xOffset="-31" identifier="0FEF5CE5"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>0FEF5CE5</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>9A18E295</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

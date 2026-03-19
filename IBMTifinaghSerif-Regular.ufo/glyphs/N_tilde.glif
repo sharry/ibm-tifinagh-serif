@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ntilde" format="2">
+  <advance width="778"/>
+  <unicode hex="00D1"/>
+  <note>
+Ntilde
+</note>
+  <anchor x="393" y="0" name="bottom"/>
+  <outline>
+    <component base="N" identifier="18DBBC45"/>
+    <component base="tilde.case" xOffset="92" identifier="8A3A7C5B"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>18DBBC45</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>8A3A7C5B</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

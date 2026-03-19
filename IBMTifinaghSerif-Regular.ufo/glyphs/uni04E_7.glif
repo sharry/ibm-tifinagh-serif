@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni04E7" format="2">
+  <advance width="563"/>
+  <unicode hex="04E7"/>
+  <note>
+uni04E7
+</note>
+  <anchor x="282" y="0" name="bottom"/>
+  <outline>
+    <component base="o" identifier="57613CB2"/>
+    <component base="dieresis" xOffset="-17" identifier="ABA2EAAE"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>57613CB2</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>ABA2EAAE</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

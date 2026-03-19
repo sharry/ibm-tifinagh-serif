@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni04E2" format="2">
+  <advance width="787"/>
+  <unicode hex="04E2"/>
+  <note>
+uni04E2
+</note>
+  <outline>
+    <component base="uni0418" identifier="F14B8632"/>
+    <component base="macron.case" xOffset="94" identifier="B93CAB63"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>B93CAB63</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>F14B8632</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

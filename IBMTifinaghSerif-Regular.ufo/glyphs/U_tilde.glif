@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Utilde" format="2">
+  <advance width="735"/>
+  <unicode hex="0168"/>
+  <note>
+Utilde
+</note>
+  <anchor x="368" y="0" name="bottom"/>
+  <anchor x="472" y="0" name="ogonek"/>
+  <outline>
+    <component base="U" identifier="6809EEA0"/>
+    <component base="tilde.case" xOffset="83" identifier="BCF2D5A4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>6809EEA0</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>BCF2D5A4</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

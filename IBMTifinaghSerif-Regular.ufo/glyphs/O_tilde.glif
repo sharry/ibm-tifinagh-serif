@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Otilde" format="2">
+  <advance width="716"/>
+  <unicode hex="00D5"/>
+  <note>
+Otilde
+</note>
+  <anchor x="358" y="0" name="bottom"/>
+  <outline>
+    <component base="O" identifier="0E83F4A1"/>
+    <component base="tilde.case" xOffset="58" identifier="49B46263"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>0E83F4A1</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>49B46263</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

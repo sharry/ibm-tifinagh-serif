@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni04AE" format="2">
+  <advance width="635"/>
+  <unicode hex="04AE"/>
+  <note>
+uni04AE
+</note>
+  <anchor x="318" y="0" name="bottom"/>
+  <anchor x="336" y="698" name="top"/>
+  <outline>
+    <component base="Y" identifier="AB197C60"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>AB197C60</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

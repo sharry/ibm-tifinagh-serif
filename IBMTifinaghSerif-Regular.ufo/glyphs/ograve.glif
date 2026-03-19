@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ograve" format="2">
+  <advance width="564"/>
+  <unicode hex="00F2"/>
+  <note>
+ograve
+</note>
+  <anchor x="282" y="0" name="bottom"/>
+  <outline>
+    <component base="o" identifier="D50EC370"/>
+    <component base="grave" xOffset="-17" identifier="14BA320B"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>14BA320B</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>D50EC370</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

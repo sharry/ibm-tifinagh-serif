@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1EDC" format="2">
+  <advance width="716"/>
+  <unicode hex="1EDC"/>
+  <note>
+uni1EDC
+</note>
+  <anchor x="358" y="0" name="bottom"/>
+  <outline>
+    <component base="Ohorn" identifier="12433EEC"/>
+    <component base="grave.case" xOffset="58" identifier="EDB91BC7"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>12433EEC</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>EDB91BC7</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1EA5.alt01" format="2">
+  <advance width="610"/>
+  <note>
+uni1EA5.alt01
+</note>
+  <anchor x="277" y="0" name="bottom"/>
+  <anchor x="560" y="0" name="ogonek"/>
+  <outline>
+    <component base="a.alt01" identifier="9C88CC2D"/>
+    <component base="circumflexacute" xOffset="268" identifier="BC30CBB7"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>9C88CC2D</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>BC30CBB7</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

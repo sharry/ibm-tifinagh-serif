@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0441" format="2">
+  <advance width="516"/>
+  <unicode hex="0441"/>
+  <note>
+uni0441
+</note>
+  <anchor x="289" y="0" name="bottom"/>
+  <anchor x="280" y="540" name="top"/>
+  <outline>
+    <component base="c" identifier="D86BAE78"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>D86BAE78</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

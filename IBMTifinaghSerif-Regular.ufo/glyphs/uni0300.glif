@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0300" format="2">
+  <advance width="0"/>
+  <unicode hex="0300"/>
+  <note>
+uni0300
+</note>
+  <anchor x="0" y="540" name="_top"/>
+  <outline>
+    <component base="grave" xOffset="-299" identifier="3764936B"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>3764936B</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

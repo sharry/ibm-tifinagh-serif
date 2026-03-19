@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ucircumflex" format="2">
+  <advance width="619"/>
+  <unicode hex="00FB"/>
+  <note>
+ucircumflex
+</note>
+  <anchor x="307" y="0" name="bottom"/>
+  <anchor x="585" y="18" name="ogonek"/>
+  <outline>
+    <component base="u" identifier="9BD84A79"/>
+    <component base="circumflex" identifier="D8B148CB"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>9BD84A79</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>D8B148CB</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yaddh-tifi" format="2">
+  <advance width="633"/>
+  <unicode hex="2D3A"/>
+  <outline>
+    <contour>
+      <point x="578" y="49" type="line"/>
+      <point x="578" y="0" type="line"/>
+      <point x="55" y="0" type="line"/>
+      <point x="55" y="179" type="line"/>
+      <point x="126" y="179" type="line"/>
+      <point x="126" y="52" type="line"/>
+      <point x="418" y="52" type="line"/>
+      <point x="418" y="336" type="line"/>
+      <point x="221" y="336" type="line"/>
+      <point x="221" y="256" type="line"/>
+      <point x="161" y="256" type="line"/>
+      <point x="161" y="464" type="line"/>
+      <point x="221" y="464" type="line"/>
+      <point x="221" y="385" type="line"/>
+      <point x="418" y="385" type="line"/>
+      <point x="418" y="648" type="line"/>
+      <point x="136" y="648" type="line"/>
+      <point x="136" y="530" type="line"/>
+      <point x="65" y="530" type="line"/>
+      <point x="65" y="697" type="line"/>
+      <point x="578" y="697" type="line"/>
+      <point x="578" y="651" type="line"/>
+      <point x="503" y="651" type="line"/>
+      <point x="503" y="49" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-03-19 08:12:11 +0000</string>
+    </dict>
+  </lib>
+</glyph>

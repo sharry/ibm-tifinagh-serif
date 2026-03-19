@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Idotaccent" format="2">
+  <advance width="346"/>
+  <unicode hex="0130"/>
+  <note>
+Idotaccent
+</note>
+  <anchor x="173" y="0" name="bottom"/>
+  <anchor x="291" y="0" name="ogonek"/>
+  <outline>
+    <component base="I" identifier="353F4BA2"/>
+    <component base="dotaccent.case" xOffset="-126" identifier="E13F6588"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>353F4BA2</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>E13F6588</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

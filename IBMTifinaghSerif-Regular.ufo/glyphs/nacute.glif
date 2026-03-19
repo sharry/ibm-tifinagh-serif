@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nacute" format="2">
+  <advance width="639"/>
+  <unicode hex="0144"/>
+  <note>
+nacute
+</note>
+  <anchor x="328" y="0" name="bottom"/>
+  <outline>
+    <component base="n" identifier="D5FA0070"/>
+    <component base="acute" xOffset="36" identifier="6E50FF0C"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>6E50FF0C</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>D5FA0070</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

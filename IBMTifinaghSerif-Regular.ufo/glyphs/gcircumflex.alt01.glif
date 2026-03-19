@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gcircumflex.alt01" format="2">
+  <advance width="571"/>
+  <note>
+gcircumflex.alt01
+</note>
+  <outline>
+    <component base="g.alt01" identifier="8D1A9AF9"/>
+    <component base="circumflex" xOffset="-31" identifier="7BE3D230"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>7BE3D230</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>8D1A9AF9</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hcircumflex" format="2">
+  <advance width="787"/>
+  <unicode hex="0124"/>
+  <note>
+Hcircumflex
+</note>
+  <anchor x="393" y="0" name="bottom"/>
+  <outline>
+    <component base="H" identifier="1CE9126F"/>
+    <component base="circumflex.case" xOffset="93" identifier="88BFC4CF"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>1CE9126F</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>88BFC4CF</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0407" format="2">
+  <advance width="347"/>
+  <unicode hex="0407"/>
+  <note>
+uni0407
+</note>
+  <anchor x="173" y="0" name="bottom"/>
+  <anchor x="291" y="0" name="ogonek"/>
+  <outline>
+    <component base="I" identifier="5B6E3A48"/>
+    <component base="dieresis.case" xOffset="-126" identifier="81563E6F"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>5B6E3A48</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>81563E6F</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

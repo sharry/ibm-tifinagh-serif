@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Wgrave" format="2">
+  <advance width="968"/>
+  <unicode hex="1E80"/>
+  <note>
+Wgrave
+</note>
+  <anchor x="483" y="0" name="bottom"/>
+  <outline>
+    <component base="W" identifier="2C64A0EE"/>
+    <component base="grave.case" xOffset="197" identifier="BAD9EDDA"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>2C64A0EE</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>BAD9EDDA</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

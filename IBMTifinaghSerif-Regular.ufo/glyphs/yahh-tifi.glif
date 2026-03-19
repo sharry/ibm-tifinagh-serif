@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yahh-tifi" format="2">
+  <advance width="701"/>
+  <unicode hex="2D43"/>
+  <outline>
+    <contour>
+      <point x="569" y="648" type="line"/>
+      <point x="500" y="648" type="line"/>
+      <point x="383" y="434" type="line"/>
+      <point x="594" y="46" type="line"/>
+      <point x="646" y="46" type="line"/>
+      <point x="646" y="0" type="line"/>
+      <point x="406" y="0" type="line"/>
+      <point x="406" y="46" type="line"/>
+      <point x="495" y="46" type="line"/>
+      <point x="338" y="352" type="line"/>
+      <point x="168" y="46" type="line"/>
+      <point x="257" y="46" type="line"/>
+      <point x="257" y="0" type="line"/>
+      <point x="55" y="0" type="line"/>
+      <point x="55" y="46" type="line"/>
+      <point x="107" y="46" type="line"/>
+      <point x="445" y="648" type="line"/>
+      <point x="368" y="648" type="line"/>
+      <point x="368" y="698" type="line"/>
+      <point x="569" y="698" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-03-17 13:30:09 +0000</string>
+    </dict>
+  </lib>
+</glyph>

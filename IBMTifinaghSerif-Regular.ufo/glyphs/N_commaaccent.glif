@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ncommaaccent" format="2">
+  <advance width="778"/>
+  <unicode hex="0145"/>
+  <note>
+Ncommaaccent
+</note>
+  <anchor x="392" y="698" name="top"/>
+  <outline>
+    <component base="N" identifier="E807F713"/>
+    <component base="uni0326" xOffset="393" identifier="9C4F25CC"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>9C4F25CC</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>E807F713</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cacute" format="2">
+  <advance width="516"/>
+  <unicode hex="0107"/>
+  <note>
+cacute
+</note>
+  <anchor x="289" y="0" name="bottom"/>
+  <outline>
+    <component base="c" identifier="79DD8AEE"/>
+    <component base="acute" xOffset="-19" identifier="01DC7D23"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>01DC7D23</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>79DD8AEE</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

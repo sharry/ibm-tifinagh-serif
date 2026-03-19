@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Wcircumflex" format="2">
+  <advance width="968"/>
+  <unicode hex="0174"/>
+  <note>
+Wcircumflex
+</note>
+  <anchor x="483" y="0" name="bottom"/>
+  <outline>
+    <component base="W" identifier="73A642A5"/>
+    <component base="circumflex.case" xOffset="197" identifier="73333AD7"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>73333AD7</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>73A642A5</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

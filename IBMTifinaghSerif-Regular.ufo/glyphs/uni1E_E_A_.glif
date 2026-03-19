@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1EEA" format="2">
+  <advance width="733"/>
+  <unicode hex="1EEA"/>
+  <note>
+uni1EEA
+</note>
+  <anchor x="368" y="0" name="bottom"/>
+  <outline>
+    <component base="Uhorn" identifier="A9F400CD"/>
+    <component base="grave.case" xOffset="83" identifier="CFFD3BF9"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>A9F400CD</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>CFFD3BF9</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

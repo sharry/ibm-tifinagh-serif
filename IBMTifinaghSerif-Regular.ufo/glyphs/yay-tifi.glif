@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yay-tifi" format="2">
+  <advance width="598"/>
+  <unicode hex="2D62"/>
+  <outline>
+    <contour>
+      <point x="543" y="543" type="line"/>
+      <point x="504" y="543" type="line"/>
+      <point x="504" y="627" type="line"/>
+      <point x="139" y="601" type="line"/>
+      <point x="139" y="596" type="line"/>
+      <point x="220" y="547" type="line"/>
+      <point x="541" y="334" type="line"/>
+      <point x="214" y="83" type="line"/>
+      <point x="215" y="49" type="line"/>
+      <point x="290" y="49" type="line"/>
+      <point x="290" y="0" type="line"/>
+      <point x="55" y="0" type="line"/>
+      <point x="55" y="49" type="line"/>
+      <point x="130" y="49" type="line"/>
+      <point x="130" y="129" type="line"/>
+      <point x="416" y="355" type="line"/>
+      <point x="416" y="359" type="line"/>
+      <point x="55" y="596" type="line"/>
+      <point x="55" y="672" type="line"/>
+      <point x="504" y="698" type="line"/>
+      <point x="543" y="698" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-03-17 13:35:47 +0000</string>
+    </dict>
+  </lib>
+</glyph>
