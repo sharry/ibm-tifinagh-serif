@@ -1,6 +1,6 @@
 # Tawuri Tifinagh Serif
 
-![font preview](https://assets.bensadik.net/CnP_19032026_104643.png)
+![font preview](https://assets.bensadik.net/CnP_19032026_104643-1.png)
 
 A modified version of [IBM Plex Serif](https://github.com/IBM/plex) extended with Tifinagh script support and Latin characters for Tamazight romanization.
 
